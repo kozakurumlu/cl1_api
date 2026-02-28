@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(cygpath:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(find \"C:\\\\Users\\\\kozak\\\\OneDrive\\\\Documents\\\\Work\\\\Projects\\\\cl1_api\\\\cl-api-doc\"\" -type f -name \"* \")",
+      "Bash(grep:*)",
+      "WebSearch",
+      "WebFetch(domain:corticallabs.com)",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
