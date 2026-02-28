@@ -9,7 +9,8 @@
       "Bash(grep:*)",
       "WebSearch",
       "WebFetch(domain:corticallabs.com)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(pip show:*)"
     ]
   }
 }

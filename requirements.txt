@@ -1,1 +1,1 @@
-numpy
+cl-sdk
